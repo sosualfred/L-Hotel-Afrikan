@@ -5,7 +5,7 @@ L'Hotel Afrikan - The 5th hotel design crafted with love by team avengers - HNGi
 To avoid conflicts, we need to be on the same page.
 Here's the current file tree;
 
-*assets
+* assets
 >> css
 ----style.css
 >> images
@@ -13,10 +13,10 @@ Here's the current file tree;
 ----2.png
 ----3.png
 >> js
-*contact.html
-*facilities.html
-*index.html
-*rooms_and_rates.html
+* contact.html
+* facilities.html
+* index.html
+* rooms_and_rates.html
 
 
 Please plug your code into the corresponding pages and link your asset files accordingly.
