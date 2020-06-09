@@ -65,3 +65,89 @@
 	font-weight: 600;
 	font-size:16px;
 }
+
+.bg-section {
+    background:	#8d4a4a;
+}
+
+.ft-contact h1 {
+    color: #fff;
+    margin-top: 13%;
+    font-size: 25px;
+    text-decoration: dotted;
+}
+
+.ft-contact p {
+    color: #fff;
+    font-size: 15px;
+}
+
+
+.ft-booking h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 13%;
+    padding-left: 30%;
+}
+
+.ft-booking input {
+    width: 40%;
+    margin-top: 5%;
+    /* padding-right: 15px; */
+}
+
+.ft-policy  {
+    margin-top: 7%;
+    color: #fff;
+    
+}
+
+.follow h3 {
+    color: #fff;
+}
+
+.social {
+    list-style: none;
+    display: flex !important;
+    padding-left: 2em;
+}
+
+.follow i {
+    padding-left: 2em;
+    text-align: center;
+}
+
+
+/* Minimalism styling */
+  .mini h1 {
+      color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: 700;
+      text-align: center;
+  }
+
+  .slidingstyle{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .carousel-control-prev,
+  .carousel-control-prev-icon{
+    align-self: flex-end;
+    position: absolute;
+    padding-left: 97%;
+  }
+ 
+  .carousel-control-next,
+  .carousel-control-next-icon{
+    align-self: flex-end;
+   padding-left: 13%;
+  }
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+     background-color:     
+  }
+
+  
