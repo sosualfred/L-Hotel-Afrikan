@@ -6,13 +6,13 @@ To avoid conflicts, we need to be on the same page.
 Here's the current file tree;
 
 * assets
->> css
-----style.css
->> images
-----1.png
-----2.png
-----3.png
->> js
+* >> css
+* ----style.css
+* >> images
+* ----1.png
+* ----2.png
+* ----3.png
+* >> js
 * contact.html
 * facilities.html
 * index.html
