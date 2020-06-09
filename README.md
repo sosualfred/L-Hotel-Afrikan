@@ -1,5 +1,5 @@
 # L-Hotel-Afrikan
-L'Hotel Afrikan - The 5th hotel design crafted with love by team avengers - HNGi7
+L'Hotel Afrikan - The 5th hotel design crafted with love by team superman - HNGi7
 
 
 To avoid conflicts, we need to be on the same page.
