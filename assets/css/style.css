@@ -9,12 +9,12 @@
 	top: 0;
 	height: 100px!important;
 	z-index:10;
-	
+
 }
 .navbar-brand img{
 	padding-left: 30px;
 	}
-	
+
 .navbar-brand2 img{
 	position: absolute;
 	top: 20px;
@@ -29,13 +29,13 @@
 	bottom: 50px;
 	padding: 10px;
 	}
-	
+
 .navbar-collapse{
 	padding-right: 70px;
 }
 .navbar-nav li{
     padding:0 10px;
-	
+
 }
 .navbar-nav li a{
     float: right;
@@ -43,13 +43,13 @@
 	font-size: 18px;
 	font-family: Arial;
 	font-weight: 500;
-} 
+}
 .navbar-nav li button{
     color: #602C21!important;
     background-color: #fff;
-	
+
 }
- 
+
 .navbar-nav{
 	right: 20px!important;
 }
@@ -100,7 +100,7 @@
 .ft-policy  {
     margin-top: 7%;
     color: #fff;
-    
+
 }
 
 .follow h3 {
@@ -139,7 +139,7 @@
     position: absolute;
     padding-left: 97%;
   }
- 
+
   .carousel-control-next,
   .carousel-control-next-icon{
     align-self: flex-end;
@@ -147,7 +147,32 @@
   }
 
   .carousel-control-prev-icon, .carousel-control-next-icon {
-     background-color:     
+     background-color:
   }
 
-  
+
+.brown-bg {
+    background-color:	#602C21;
+    color: white;
+    border-radius: 0;
+}
+
+
+.btn-sosu:active{
+    border-color: #602c21 !important;
+    background-color: #602c21 !important;
+
+}
+
+.btn-sosu{
+    border-color: #602c21 !important;
+    background-color: #602c21 !important;
+    border-radius: 0;
+}
+
+.image-overlay {
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+}
